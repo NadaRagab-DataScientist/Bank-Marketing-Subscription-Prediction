@@ -51,3 +51,12 @@ Random Forest achieved the best balance between Precision, Recall, F1-score and 
 - Seaborn
 - Scikit-learn
 - XGBoost
+
+
+
+## Future Work
+
+- Apply One-Hot Encoding for categorical variables.
+- Experiment with CatBoost and LightGBM.
+- Deploy the model using Streamlit.
+- Optimize hyperparameters further.
